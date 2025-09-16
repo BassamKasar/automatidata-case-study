@@ -77,14 +77,14 @@ This project is part of the **Google Advanced Data Analytics Professional Certif
 ---
 
 ## 📊 Visualizations  
-| Tip Percentage Distribution              | ROC Curve                            |
+| F1 scores of the random forest and XGBoost models             | Scatter plot shows predicted versus actual taxi fare amounts based on the linear regression model                           |
 |-----------------------------------------|--------------------------------------|
-| ![Tip Distribution](visuals/tip_distribution.png) | ![ROC Curve](visuals/roc_curve.png) |
+| ![F1 scores of the random forest and XGBoost models](Visuals/F1_scores_of_the_random_forest_and_XGBoost_models.png) | ![Scatter plot shows predicted versus actual taxi fare amounts based on the linear regression model](Visuals/Scatter_plot_shows_predicted_versus_actual_taxi_fare_amounts_based_on_the_linear_regression_model.png) |
 
 ---
 
 ## 🚀 How to Run Locally  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/<your-username>/automatidata-case-study.git
+   git clone https://github.com/BassamKasar/automatidata-case-study.git
    cd automatidata-case-study
