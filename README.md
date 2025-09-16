@@ -38,7 +38,7 @@ This project is part of the **Google Advanced Data Analytics Professional Certif
 
 ## 🛠 Tools & Technologies  
 - **Languages:** Python (3.9+)  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scipy, Scikit-learn  
 - **Environment:** Jupyter Notebook  
 - **Version Control:** Git & GitHub  
 - **Visualization:** Matplotlib, Seaborn
