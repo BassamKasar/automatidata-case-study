@@ -79,7 +79,7 @@ This project is part of the **Google Advanced Data Analytics Professional Certif
 ## 📊 Visualizations  
 | F1 scores of the random forest and XGBoost models             | Scatter plot shows predicted versus actual taxi fare amounts based on the linear regression model                           |
 |-----------------------------------------|--------------------------------------|
-| ![F1 scores of the random forest and XGBoost models](Visuals/F1_scores_of_the_random_forest_and_XGBoost_models.png) | ![Scatter plot shows predicted versus actual taxi fare amounts based on the linear regression model](Visuals/Scatter_plot_shows_predicted_versus_actual_taxi_fare_amounts_based_on_the_linear_regression_model.png) |
+| <img width="560" height="241" alt="image" src="https://github.com/user-attachments/assets/6065fc95-d026-45d8-8916-eae5aa989987" /> | <img width="629" height="568" alt="image" src="https://github.com/user-attachments/assets/e703669b-50c7-4d93-96ba-89cf528ed0bb" /> |
 
 ---
 
